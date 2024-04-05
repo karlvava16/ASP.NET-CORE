@@ -79,7 +79,6 @@ function SetDate(unixTimestamp)
     let month = date.getMonth() + 1;
     let year = date.getFullYear();
 
-    // Pad single-digit day and month with leading zeros if necessary
     if (day < 10) {
         day = '0' + day;
     }
@@ -87,7 +86,6 @@ function SetDate(unixTimestamp)
         month = '0' + month;
     }
 
-    // Concatenate the components in the desired format
     return day + '.' + month + '.' + year;
 }
 
@@ -97,11 +95,9 @@ function displayWeatherList(weatherData) {
     let weatherInfo2 = document.getElementById("weatherInfo2")
     weatherInfo2.innerHTML = ""
 
-    // Create a div element for additionalInfo2
     let additionalInfo2Div = document.createElement("div");
     additionalInfo2Div.classList.add("additionalInfo2");
 
-    // Create div elements for each child div
     let div1 = document.createElement("div");
     let div2 = document.createElement("div");
     let div3 = document.createElement("div");
@@ -110,21 +106,18 @@ function displayWeatherList(weatherData) {
 
     let daydate = new Date(weatherData.list[0].dt * 1000);
     console.log(daydate);
-    // Create h3 element for the first div
     let h3 = document.createElement("h3");
     h3.textContent = dayNames[daydate.getDay()];
     div1.appendChild(h3);
 
-    // Create span element for the second div
     let span = document.createElement("span");
     span.classList.add("material-symbols-outlined");
     span.style.fontSize = "100px";
     span.style.width = "100px";
     span.style.height = "100px";
-    span.style.color = "#3da4ab"; // Assuming color is dynamic based on the data
+    span.style.color = "#3da4ab";
     div2.appendChild(span);
 
-    // Create p elements for the third and fourth divs
     let p1 = document.createElement("p");
     p1.textContent = "Forecast";
     let p2 = document.createElement("p");
@@ -136,24 +129,19 @@ function displayWeatherList(weatherData) {
     div5.appendChild(p3);
 
 
-    // Append all child divs to additionalInfo2Div
     additionalInfo2Div.appendChild(div1);
     additionalInfo2Div.appendChild(div2);
     additionalInfo2Div.appendChild(div3);
     additionalInfo2Div.appendChild(div4);
     additionalInfo2Div.appendChild(div5);
 
-    // Append additionalInfo2Div to the container element in the HTML document
     weatherInfo2.appendChild(additionalInfo2Div);
 
 
-    // Loop through the data array and create the structure for each item
     for (let i = 0; i < weatherData.list.length && i < 5; i++) {
-        // Create a div element for additionalInfo2
         let additionalInfo2Div = document.createElement("div");
         additionalInfo2Div.classList.add("additionalInfo2");
 
-        // Create div elements for each child div
         let div1 = document.createElement("div");
         let div2 = document.createElement("div");
         let div3 = document.createElement("div");
@@ -161,22 +149,19 @@ function displayWeatherList(weatherData) {
         let div5 = document.createElement("div");
 
 
-        // Create h3 element for the first div
         let h3 = document.createElement("h3");
         h3.textContent = convertUnixTimestampToTime(weatherData.list[i].dt);
         div1.appendChild(h3);
 
-        // Create span element for the second div
         let span = document.createElement("span");
         span.classList.add("material-symbols-outlined");
         span.style.fontSize = "100px";
         span.style.width = "100px";
         span.style.height = "100px";
-        span.style.color = "#3da4ab"; // Assuming color is dynamic based on the data
+        span.style.color = "#3da4ab";
         span.textContent = weatherIcons[weatherData.list[i].weather[0].main];
         div2.appendChild(span);
 
-        // Create p elements for the third and fourth divs
         let p1 = document.createElement("p");
         p1.textContent = weatherData.list[i].weather[0].main;
         let p2 = document.createElement("p");
@@ -188,31 +173,25 @@ function displayWeatherList(weatherData) {
         div5.appendChild(p3);
 
 
-        // Append all child divs to additionalInfo2Div
         additionalInfo2Div.appendChild(div1);
         additionalInfo2Div.appendChild(div2);
         additionalInfo2Div.appendChild(div3);
         additionalInfo2Div.appendChild(div4);
         additionalInfo2Div.appendChild(div5);
 
-        // Append additionalInfo2Div to the container element in the HTML document
         weatherInfo2.appendChild(additionalInfo2Div);
     }
 }
 
 function convertUnixTimestampToTime(unixTimestamp) {
-    // Convert Unix timestamp to milliseconds
     let milliseconds = unixTimestamp * 1000;
 
-    // Create a new Date object
     let date = new Date(milliseconds);
 
-    // Get hours, minutes, and seconds from the Date object
     let hours = date.getHours();
-    let minutes = "0" + date.getMinutes(); // Add leading zero if minutes < 10
-    let seconds = "0" + date.getSeconds(); // Add leading zero if seconds < 10
+    let minutes = "0" + date.getMinutes();
+    let seconds = "0" + date.getSeconds();
 
-    // Format the time string
     let time = hours + ':' + minutes.substr(-2);
 
     return time;

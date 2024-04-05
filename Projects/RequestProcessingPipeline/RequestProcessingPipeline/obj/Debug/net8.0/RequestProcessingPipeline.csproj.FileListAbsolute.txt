@@ -1,0 +1,102 @@
+D:\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\appsettings.Development.json
+D:\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\appsettings.json
+D:\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.exe
+D:\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.deps.json
+D:\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.runtimeconfig.json
+D:\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.dll
+D:\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.pdb
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.GeneratedMSBuildEditorConfig.editorconfig
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.AssemblyInfoInputs.cache
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.AssemblyInfo.cs
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.csproj.CoreCompileInputs.cache
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.MvcApplicationPartsAssemblyInfo.cache
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.build.json
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.development.json
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.RequestProcessingPipeline.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.build.RequestProcessingPipeline.props
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RequestProcessingPipeline.props
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RequestProcessingPipeline.props
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.pack.json
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\scopedcss\bundle\RequestProcessingPipeline.styles.css
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.dll
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\refint\RequestProcessingPipeline.dll
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.pdb
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.genruntimeconfig.cache
+D:\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\ref\RequestProcessingPipeline.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.RequestProcessingPipeline.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.build.RequestProcessingPipeline.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RequestProcessingPipeline.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RequestProcessingPipeline.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\scopedcss\bundle\RequestProcessingPipeline.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\refint\RequestProcessingPipeline.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\ref\RequestProcessingPipeline.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\appsettings.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.exe
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.deps.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.runtimeconfig.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.pdb
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.AssemblyInfoInputs.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.AssemblyInfo.cs
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.csproj.CoreCompileInputs.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.sourcelink.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.RequestProcessingPipeline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.build.RequestProcessingPipeline.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RequestProcessingPipeline.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RequestProcessingPipeline.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\scopedcss\bundle\RequestProcessingPipeline.styles.css
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\refint\RequestProcessingPipeline.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.pdb
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.genruntimeconfig.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\2. Request processing pipeline\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\ref\RequestProcessingPipeline.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\appsettings.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.exe
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.deps.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.runtimeconfig.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\bin\Debug\net8.0\RequestProcessingPipeline.pdb
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.AssemblyInfoInputs.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.AssemblyInfo.cs
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.csproj.CoreCompileInputs.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.sourcelink.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.RequestProcessingPipeline.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.build.RequestProcessingPipeline.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RequestProcessingPipeline.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RequestProcessingPipeline.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\scopedcss\bundle\RequestProcessingPipeline.styles.css
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\refint\RequestProcessingPipeline.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.pdb
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\RequestProcessingPipeline.genruntimeconfig.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\RequestProcessingPipeline\RequestProcessingPipeline\obj\Debug\net8.0\ref\RequestProcessingPipeline.dll

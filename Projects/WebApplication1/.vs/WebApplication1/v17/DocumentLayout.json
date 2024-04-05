@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|c:\\projects\\asp.net core\\asp.net-core\\projects\\webapplication1\\webapplication1\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\webapplication1\\wwwroot\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|c:\\projects\\asp.net core\\asp.net-core\\projects\\webapplication1\\webapplication1\\wwwroot\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|c:\\projects\\asp.net core\\asp.net-core\\projects\\webapplication1\\webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|c:\\projects\\asp.net core\\asp.net-core\\projects\\webapplication1\\webapplication1\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\webapplication1\\wwwroot\\jquery-3.7.0.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 240,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "WebApplication1\\wwwroot\\jquery-3.7.0.js",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-02T08:05:31.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T08:05:31.746Z"
             },
             {
               "$type": "Document",
@@ -65,20 +64,20 @@
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\JavaScript.js",
               "ToolTip": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\JavaScript.js",
               "RelativeToolTip": "WebApplication1\\wwwroot\\JavaScript.js",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAABCAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAqwMEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-04-02T08:05:55.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\index.html",
               "ToolTip": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
               "RelativeToolTip": "WebApplication1\\wwwroot\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-04-02T08:02:24.234Z",
               "EditorCaption": ""
@@ -93,8 +92,7 @@
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T16:53:57.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T16:53:57.67Z"
             },
             {
               "$type": "Document",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:53:51.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T16:53:51.63Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "ToolTip": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T07:11:23.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T07:11:23.706Z"
             }
           ]
         },
@@ -141,13 +137,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\style.css",
               "ToolTip": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\WebApplication1\\wwwroot\\style.css",
               "RelativeToolTip": "WebApplication1\\wwwroot\\style.css",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAwDAAAAAQAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwDAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-04-02T08:30:54.691Z",
               "EditorCaption": ""
