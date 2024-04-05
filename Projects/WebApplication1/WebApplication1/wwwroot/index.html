@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="style.css" rel="stylesheet" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
+    <script src="JavaScript.js"></script>
+    <title>Weather App</title>
+
+
+  </head>
+  <body>
+      <header>
+          <h1>Current weather</h1>
+          <div class="search">
+              <input type="text" id="cityInput" placeholder="Search" />
+              <div id="getWeatherButton">
+                  <span class="material-symbols-outlined" style="font-size: 35px">
+                      search
+                  </span>
+              </div>
+          </div>
+      </header>
+
+      <div class="container" id="container">
+          <div class="current-weather-container" id="firstContainer">
+              <div class="title-container">
+                  <h2 id="cityName"></h2>
+                  <h2 id="date"></h2>
+              </div>
+
+              <div class="content">
+                  <div class="weatherInfo">
+                      <h2 id="weatherType" style="color: grey"></h2>
+                      <span id="imgWeather" class="material-symbols-outlined" style="font-size: 200px; color: #3da4ab;">
+                      </span>
+                  </div>
+                  <div class="temperature">
+                      <span id="temperature"></span>
+                  </div>
+                  <div class="additionalInfo">
+                      <div>
+                          <span id="minTemperature"></span>
+                      </div>
+                      <div>
+                          <span id="maxTemperature"></span>
+                      </div>
+                      <div>
+                          <span id="windSpeed"></span>
+                      </div>
+                  </div>
+              </div>
+
+          </div>
+
+          <div class="current-weather-container" id="secondContainer">
+              <div class="title-container">
+                  <h2>Hourly</h2>
+              </div>
+
+              <div class="content">
+                  <div class="weatherInfo2" id="weatherInfo2">
+                      
+                  </div>
+              </div>
+
+          </div>
+      </div>
+
+
+
+
+
+          <script>
+              document
+                  .getElementById("cityInput")
+                  .addEventListener("keypress", function (event) {
+                      if (event.key === "Enter") {
+                          getWeather();
+                      }
+                  });
+
+              document
+                  .getElementById("getWeatherButton")
+                  .addEventListener("click", getWeather);
+
+              const weatherIcons = {
+                  "Clear": "Sunny",
+                  "Clouds": "Cloud",
+                  "Rain": "Rainy",
+                  "Thunderstorm": "Thunderstorm",
+                  "Snow": "ac_unit",
+              };
+
+
+              const dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+          </script>
+</body>
+</html>

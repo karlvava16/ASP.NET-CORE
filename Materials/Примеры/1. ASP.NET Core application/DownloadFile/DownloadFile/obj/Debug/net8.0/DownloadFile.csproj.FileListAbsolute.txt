@@ -1,0 +1,52 @@
+D:\DownloadFile\DownloadFile\bin\Debug\net8.0\appsettings.Development.json
+D:\DownloadFile\DownloadFile\bin\Debug\net8.0\appsettings.json
+D:\DownloadFile\DownloadFile\bin\Debug\net8.0\Capri.jpg
+D:\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.exe
+D:\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.deps.json
+D:\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.runtimeconfig.json
+D:\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.dll
+D:\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.pdb
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.AssemblyInfoInputs.cache
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.AssemblyInfo.cs
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.csproj.CoreCompileInputs.cache
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.MvcApplicationPartsAssemblyInfo.cache
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets.build.json
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets.development.json
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets\msbuild.DownloadFile.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets\msbuild.build.DownloadFile.props
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DownloadFile.props
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DownloadFile.props
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\scopedcss\bundle\DownloadFile.styles.css
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.dll
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\refint\DownloadFile.dll
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.pdb
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.genruntimeconfig.cache
+D:\DownloadFile\DownloadFile\obj\Debug\net8.0\ref\DownloadFile.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\bin\Debug\net8.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\bin\Debug\net8.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\bin\Debug\net8.0\Capri.jpg
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\bin\Debug\net8.0\DownloadFile.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets\msbuild.DownloadFile.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets\msbuild.build.DownloadFile.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DownloadFile.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DownloadFile.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\scopedcss\bundle\DownloadFile.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\refint\DownloadFile.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\DownloadFile.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\DownloadFile\DownloadFile\obj\Debug\net8.0\ref\DownloadFile.dll

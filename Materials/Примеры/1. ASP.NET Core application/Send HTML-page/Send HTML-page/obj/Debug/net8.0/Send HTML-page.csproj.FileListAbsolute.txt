@@ -1,0 +1,78 @@
+D:\Send HTML-page\Send HTML-page\bin\Debug\net8.0\appsettings.Development.json
+D:\Send HTML-page\Send HTML-page\bin\Debug\net8.0\appsettings.json
+D:\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.exe
+D:\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.deps.json
+D:\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.runtimeconfig.json
+D:\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.dll
+D:\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.pdb
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.GeneratedMSBuildEditorConfig.editorconfig
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.AssemblyInfoInputs.cache
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.AssemblyInfo.cs
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.csproj.CoreCompileInputs.cache
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.MvcApplicationPartsAssemblyInfo.cache
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.build.json
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.development.json
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.Send HTML-page.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.build.Send HTML-page.props
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Send HTML-page.props
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Send HTML-page.props
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\scopedcss\bundle\Send HTML-page.styles.css
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.dll
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\refint\Send HTML-page.dll
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.pdb
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.genruntimeconfig.cache
+D:\Send HTML-page\Send HTML-page\obj\Debug\net8.0\ref\Send HTML-page.dll
+D:\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\appsettings.Development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\appsettings.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.staticwebassets.runtime.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.exe
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.deps.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.runtimeconfig.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.AssemblyInfoInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.AssemblyInfo.cs
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.csproj.CoreCompileInputs.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.MvcApplicationPartsAssemblyInfo.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.build.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.development.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.Send HTML-page.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.build.Send HTML-page.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Send HTML-page.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Send HTML-page.props
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\scopedcss\bundle\Send HTML-page.styles.css
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\refint\Send HTML-page.dll
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.pdb
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.genruntimeconfig.cache
+D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\ref\Send HTML-page.dll
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\appsettings.json
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.staticwebassets.runtime.json
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.exe
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.deps.json
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.runtimeconfig.json
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.dll
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\bin\Debug\net8.0\Send HTML-page.pdb
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.AssemblyInfoInputs.cache
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.AssemblyInfo.cs
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.csproj.CoreCompileInputs.cache
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.Send HTML-page.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.build.Send HTML-page.props
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Send HTML-page.props
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Send HTML-page.props
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\scopedcss\bundle\Send HTML-page.styles.css
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.dll
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\refint\Send HTML-page.dll
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.pdb
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\Send HTML-page.genruntimeconfig.cache
+C:\Projects\ASP.NET CORE\Materials\Примеры\1. ASP.NET Core application\Send HTML-page\Send HTML-page\obj\Debug\net8.0\ref\Send HTML-page.dll

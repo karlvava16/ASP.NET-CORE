@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Terminal component\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69995AB8-83A9-4E4C-B698-D97FB7D17DCB}|Terminal component\\Terminal component.csproj|c:\\projects\\asp.net core\\materials\\\u043F\u0440\u0438\u043C\u0435\u0440\u044B\\1. asp.net core application\\terminal component\\terminal component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69995AB8-83A9-4E4C-B698-D97FB7D17DCB}|Terminal component\\Terminal component.csproj|solutionrelative:terminal component\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Terminal component\\Terminal component\\Program.cs",
+              "RelativeDocumentMoniker": "Terminal component\\Program.cs",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Terminal component\\Terminal component\\Program.cs",
+              "RelativeToolTip": "Terminal component\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:18:33.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

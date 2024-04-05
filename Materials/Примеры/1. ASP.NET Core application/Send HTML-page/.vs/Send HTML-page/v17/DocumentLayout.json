@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|c:\\projects\\asp.net core\\materials\\\u043F\u0440\u0438\u043C\u0435\u0440\u044B\\1. asp.net core application\\send html-page\\send html-page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|solutionrelative:send html-page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\send html-page\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|solutionrelative:send html-page\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\send html-page\\wwwroot\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|solutionrelative:send html-page\\wwwroot\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\send html-page\\wwwroot\\cities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|solutionrelative:send html-page\\wwwroot\\cities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\send html-page\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|solutionrelative:send html-page\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HW\\1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\send html-page\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{238D3DE1-E78A-4D2E-91C1-BB562F74E17F}|Send HTML-page\\Send HTML-page.csproj|solutionrelative:send html-page\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\appsettings.json",
+              "RelativeDocumentMoniker": "Send HTML-page\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\appsettings.json",
+              "RelativeToolTip": "Send HTML-page\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T17:18:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cities.json",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\wwwroot\\cities.json",
+              "RelativeDocumentMoniker": "Send HTML-page\\wwwroot\\cities.json",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\wwwroot\\cities.json",
+              "RelativeToolTip": "Send HTML-page\\wwwroot\\cities.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T17:18:04.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1.html",
+              "DocumentMoniker": "D:\\HW\\1.html",
+              "ToolTip": "D:\\HW\\1.html",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2023-12-04T20:02:08.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "countries.json",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\wwwroot\\countries.json",
+              "RelativeDocumentMoniker": "Send HTML-page\\wwwroot\\countries.json",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\wwwroot\\countries.json",
+              "RelativeToolTip": "Send HTML-page\\wwwroot\\countries.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T17:18:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Send HTML-page\\wwwroot\\index.html",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\wwwroot\\index.html",
+              "RelativeToolTip": "Send HTML-page\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-01T17:18:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Send HTML-page\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Send HTML-page\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T17:18:04.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\Program.cs",
+              "RelativeDocumentMoniker": "Send HTML-page\\Program.cs",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\1. ASP.NET Core application\\Send HTML-page\\Send HTML-page\\Program.cs",
+              "RelativeToolTip": "Send HTML-page\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:18:04.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

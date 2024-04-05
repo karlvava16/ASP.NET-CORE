@@ -1,0 +1,78 @@
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Projects\ASP.NET\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Projects\ASP.NET CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Projects\ASP.NET CORE\ASP.NET-CORE\Projects\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
