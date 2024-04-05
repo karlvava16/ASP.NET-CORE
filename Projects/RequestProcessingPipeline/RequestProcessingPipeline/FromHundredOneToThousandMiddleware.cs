@@ -33,7 +33,7 @@
                 else
                 {
                     string[] Hundr = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
-                    if (number % 100 == 0)
+                    if (number % 100 == 0 && number < 1000)
                     {
                         // Выдаем окончательный ответ клиенту
                         await context.Response.WriteAsync("Your number is " + Hundr[number / 100 - 1] + " hundread");
@@ -44,14 +44,22 @@
                         string? result = string.Empty;
                         result = context.Session.GetString("number"); // получим число от компонента FromOneToTenMiddleware
                         // Выдаем окончательный ответ клиенту
-                        await context.Response.WriteAsync("Your number is " + Hundr[number / 100 - 1] + " hundread " + result);
+                        //await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2] + " " + result);
+
+                        if (number > 1000)
+                            // Записываем в сессионную переменную number результат для компонента FromTwentyToHundredMiddleware
+                            context.Session.SetString("number", Hundr[number / 100 - 1] + " hundread " + result);
+                        else
+                            // Выдаем окончательный ответ клиенту
+                            await context.Response.WriteAsync("Your number is " + Hundr[number / 100 - 1] + " hundread " + result);
+
                     }
                 }
             }
-            catch (Exception)
+            catch (Exception e)
             {
                 // Выдаем окончательный ответ клиенту
-                await context.Response.WriteAsync("Incorrect parameter4");
+                await context.Response.WriteAsync("Incorrect parameter4" + "\n\n" + e.Message + "\n\n");
             }
         }
     }

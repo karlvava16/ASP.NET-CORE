@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|c:\\projects\\asp.net core\\asp.net-core\\projects\\webapplication1\\webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|c:\\projects\\asp.net core\\asp.net-core\\projects\\webapplication1\\webapplication1\\wwwroot\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\WebApplication1\\webapplication1\\wwwroot\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{72E5DDAD-8FDF-4B75-8EE5-17BF8726A0D0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
@@ -66,8 +66,7 @@
               "RelativeToolTip": "WebApplication1\\wwwroot\\JavaScript.js",
               "ViewState": "AQIAAFoAAAAAAAAAAAAqwMEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-02T08:05:55.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T08:05:55.724Z"
             },
             {
               "$type": "Document",

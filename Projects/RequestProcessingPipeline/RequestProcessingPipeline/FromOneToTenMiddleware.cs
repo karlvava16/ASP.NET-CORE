@@ -34,10 +34,10 @@
                         await context.Response.WriteAsync("Your number is " + Ones[number - 1]); // от 1 до 9
                 }            
             }
-            catch(Exception)
+            catch(Exception e)
             {
                 // Выдаем окончательный ответ клиенту
-                await context.Response.WriteAsync("Incorrect parameter1");
+                await context.Response.WriteAsync("Incorrect parameter1" + "\n\n" + e.Message + "\n\n");
             }
         }
     }

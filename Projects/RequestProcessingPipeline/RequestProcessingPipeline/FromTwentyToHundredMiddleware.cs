@@ -16,7 +16,7 @@
             {
                 int number = Convert.ToInt32(token);
                 number = Math.Abs(number);
-                if (number < 20 || number > 100)
+                if (number < 20)
                 {
                     await _next.Invoke(context); //Контекст запроса передаем следующему компоненту
                 }
@@ -33,7 +33,7 @@
                 else
                 {
                     string[] Tens = { "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety" };
-                    if (number % 10 == 0)
+                    if (number % 10 == 0 && number < 100)
                     {
                         // Выдаем окончательный ответ клиенту
                         await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2]); 
@@ -44,15 +44,23 @@
                         string? result = string.Empty;
                         result = context.Session.GetString("number"); // получим число от компонента FromOneToTenMiddleware
                         // Выдаем окончательный ответ клиенту
-                        await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2] + " " + result);
-                    }                   
+                        //await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2] + " " + result);
+
+                        if (number > 119)
+                            // Записываем в сессионную переменную number результат для компонента FromTwentyToHundredMiddleware
+                            context.Session.SetString("number", Tens[number / 10 - 2] + " " + result);
+                        else
+                            // Выдаем окончательный ответ клиенту
+                            await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2] + " " + result);
+
+                    }
                 }              
             }
             catch (Exception e)
             {
                 //"Incorrect parameter"
                 // Выдаем окончательный ответ клиенту
-                await context.Response.WriteAsync("Incorrect parameter3");
+                await context.Response.WriteAsync("Incorrect parameter3"  + "\n\n" + e.Message + "\n\n");
             }
         }
     }
