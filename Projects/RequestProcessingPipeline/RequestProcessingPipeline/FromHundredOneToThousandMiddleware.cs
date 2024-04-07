@@ -33,7 +33,7 @@
                 else
                 {
                     string[] Hundr = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
-                    if (number % 100 == 0 && number < 1000)
+                    if ((number % 100) / 2 == 0 && number % 10 == 0 && number < 1000)
                     {
                         // Выдаем окончательный ответ клиенту
                         await context.Response.WriteAsync("Your number is " + Hundr[number / 100 - 1] + " hundread");

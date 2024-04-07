@@ -49,6 +49,8 @@
                         if (number > 119)
                             // Записываем в сессионную переменную number результат для компонента FromTwentyToHundredMiddleware
                             context.Session.SetString("number", Tens[number / 10 - 2] + " " + result);
+                        else if (number > 100)
+                            context.Session.SetString("number", ""+result);
                         else
                             // Выдаем окончательный ответ клиенту
                             await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2] + " " + result);
