@@ -1,10 +1,10 @@
 ﻿namespace RequestProcessingPipeline
 {
-    public class FromTwentyToHundredMiddleware
+    public class FromTwentyToHundredThousMiddleware
     {
         private readonly RequestDelegate _next;
 
-        public FromTwentyToHundredMiddleware(RequestDelegate next)
+        public FromTwentyToHundredThousMiddleware(RequestDelegate next)
         {
             this._next = next;
         }
@@ -16,27 +16,27 @@
             {
                 int number = Convert.ToInt32(token);
                 number = Math.Abs(number);
-                if (number < 20)
+                if (number < 20000)
                 {
                     await _next.Invoke(context); //Контекст запроса передаем следующему компоненту
                 }
-                //else if(number > 100)
-                //{
-                //    // Выдаем окончательный ответ клиенту
-                //    await context.Response.WriteAsync("Number greater than one hundred");
-                //}
-                else if (number == 100)
+                else if ((number / 1000) > 100)
                 {
                     // Выдаем окончательный ответ клиенту
-                    await context.Response.WriteAsync("Your number is one hundred");
+                    await context.Response.WriteAsync("Number greater than one hundred thousand");
+                }
+                else if (number == 100000)
+                {
+                    // Выдаем окончательный ответ клиенту
+                    await context.Response.WriteAsync("Your number is one hundred thousand");
                 }
                 else
                 {
                     string[] Tens = { "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety" };
-                    if (number % 10 == 0 && number < 100)
+                    if ((number / 1000) % 10 == 0 && (number / 1000) < 100)
                     {
                         // Выдаем окончательный ответ клиенту
-                        await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2]); 
+                        await context.Response.WriteAsync("Your number is " + Tens[(number / 1000) / 10 - 2]); 
                     }
                     else
                     { 
@@ -46,14 +46,14 @@
                         // Выдаем окончательный ответ клиенту
                         //await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2] + " " + result);
 
-                        if (number > 119)
+                        if ((number / 1000) > 119)
                             // Записываем в сессионную переменную number результат для компонента FromTwentyToHundredMiddleware
-                            context.Session.SetString("number", Tens[(number % 100) / 10 - 2] + " " + result);
-                        else if (number > 100)
+                            context.Session.SetString("number", Tens[((number / 1000) % 100) / 10 - 2] + " " + result);
+                        else if ((number / 1000) > 100)
                             context.Session.SetString("number", ""+result);
                         else
                             // Выдаем окончательный ответ клиенту
-                            await context.Response.WriteAsync("Your number is " + Tens[number / 10 - 2] + " " + result);
+                            await context.Response.WriteAsync("Your number is " + Tens[(number / 1000) / 10 - 2] + " " + result);
 
                     }
                 }              
@@ -62,7 +62,7 @@
             {
                 //"Incorrect parameter"
                 // Выдаем окончательный ответ клиенту
-                await context.Response.WriteAsync("Incorrect parameter3"  + "\n\n" + e.Message + "\n\n");
+                await context.Response.WriteAsync("Incorrect parameter7"  + "\n\n" + e.Message + "\n\n");
             }
         }
     }

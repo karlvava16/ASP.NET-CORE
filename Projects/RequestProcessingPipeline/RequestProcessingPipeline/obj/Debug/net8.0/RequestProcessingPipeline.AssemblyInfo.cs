@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RequestProcessingPipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac8935c5eef1857055dc5923da694c400a5c62c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42820fc7535a6de1d7482b72e8d5295548b1eb27")]
 [assembly: System.Reflection.AssemblyProductAttribute("RequestProcessingPipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RequestProcessingPipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
