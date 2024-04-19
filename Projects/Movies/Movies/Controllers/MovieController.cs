@@ -1,10 +1,21 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
+using Movies.Models;
 
 namespace Movies.Controllers
 {
     public class MovieController : Controller
     {
+        private readonly MovieDbContext _context;
+        private readonly IWebHostEnvironment _environment;
+
+        public MovieController (MovieDbContext context, IWebHostEnvironment environment)
+        {
+            _context = context;
+            _environment = environment;
+        }
+
         // GET: MovieController
         public ActionResult Index()
         {
