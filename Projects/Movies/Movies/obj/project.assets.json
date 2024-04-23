@@ -7904,24 +7904,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vlady\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vlad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\Movies.csproj",
+      "projectUniqueName": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\Movies\\Movies\\Movies.csproj",
       "projectName": "Movies",
-      "projectPath": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\Movies.csproj",
-      "packagesPath": "C:\\Users\\vlady\\.nuget\\packages\\",
-      "outputPath": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\obj\\",
+      "projectPath": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\Movies\\Movies\\Movies.csproj",
+      "packagesPath": "C:\\Users\\vlad\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Projects\\Movies\\Movies\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vlady\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7929,7 +7924,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7942,6 +7936,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7994,7 +7993,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

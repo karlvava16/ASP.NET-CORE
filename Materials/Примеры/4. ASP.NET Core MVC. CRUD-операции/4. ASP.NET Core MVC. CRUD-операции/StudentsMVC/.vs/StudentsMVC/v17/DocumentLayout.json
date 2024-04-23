@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|c:\\projects\\asp.net core\\asp.net-core\\materials\\\u043F\u0440\u0438\u043C\u0435\u0440\u044B\\4. asp.net core mvc. crud-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. asp.net core mvc. crud-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\studentsmvc\\studentsmvc\\studentsmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\studentsmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\studentsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\studentsmvc\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\studentsmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB7471F-1D40-4051-8D8E-3E042C73F494}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsMVC",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj",
+              "RelativeDocumentMoniker": "StudentsMVC\\StudentsMVC.csproj",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj",
+              "RelativeToolTip": "StudentsMVC\\StudentsMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T17:31:25.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Models\\StudentContext.cs",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Models\\StudentContext.cs",
+              "RelativeToolTip": "StudentsMVC\\Models\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:31:25.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Models\\Student.cs",
+              "RelativeToolTip": "StudentsMVC\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:31:26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Program.cs",
+              "ToolTip": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\4. ASP.NET Core MVC. CRUD-\u043E\u043F\u0435\u0440\u0430\u0446\u0438\u0438\\StudentsMVC\\StudentsMVC\\Program.cs",
+              "RelativeToolTip": "StudentsMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:31:26.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
