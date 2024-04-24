@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj": {}
+    "C:\\Step\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj": {
+    "C:\\Step\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj",
+        "projectUniqueName": "C:\\Step\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj",
         "projectName": "StudentsMVC",
-        "projectPath": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj",
-        "packagesPath": "C:\\Users\\vlad\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ASP.NET CORE\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\obj\\",
+        "projectPath": "C:\\Step\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\StudentsMVC.csproj",
+        "packagesPath": "C:\\Users\\vlady\\.nuget\\packages\\",
+        "outputPath": "C:\\Step\\ASP.NET-CORE\\Materials\\Примеры\\4. ASP.NET Core MVC. CRUD-операции\\4. ASP.NET Core MVC. CRUD-операции\\StudentsMVC\\StudentsMVC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vlady\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

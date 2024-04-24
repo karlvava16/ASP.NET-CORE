@@ -17,47 +17,47 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentsMVC
 build_property.RootNamespace = StudentsMVC
-build_property.ProjectDir = C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\4. ASP.NET Core MVC. CRUD-операции\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\
+build_property.ProjectDir = C:\Step\ASP.NET-CORE\Materials\Примеры\4. ASP.NET Core MVC. CRUD-операции\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projects\ASP.NET CORE\ASP.NET-CORE\Materials\Примеры\4. ASP.NET Core MVC. CRUD-операции\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC
+build_property.MSBuildProjectDirectory = C:\Step\ASP.NET-CORE\Materials\Примеры\4. ASP.NET Core MVC. CRUD-операции\4. ASP.NET Core MVC. CRUD-операции\StudentsMVC\StudentsMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Create.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Delete.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Details.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Edit.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Index.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/_ViewImports.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/_ViewStart.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projects/ASP.NET CORE/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Shared/_Layout.cshtml]
+[C:/Step/ASP.NET-CORE/Materials/Примеры/4. ASP.NET Core MVC. CRUD-операции/4. ASP.NET Core MVC. CRUD-операции/StudentsMVC/StudentsMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-75itmiwj6m
