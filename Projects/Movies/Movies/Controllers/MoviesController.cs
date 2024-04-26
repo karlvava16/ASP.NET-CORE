@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.EntityFrameworkCore;
 using Movies.Models;
+using System.IO;
 
 namespace Movies.Controllers
 {
@@ -21,7 +23,7 @@ namespace Movies.Controllers
         // GET: MovieController
         public async Task<ActionResult> IndexAsync()
         {
-            var MoviesContext = _context.Movies.Include(f => f.Producer).Include(f => f.Genre);
+            var MoviesContext = _context.Movies;
             return View(await MoviesContext.ToListAsync());
         }
 
@@ -33,10 +35,7 @@ namespace Movies.Controllers
                 return NotFound();
             }
 
-            var movie = await _context.Movies
-                .Include(f => f.Producer)
-                .Include(f => f.Genre)
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var movie = await _context.Movies.FirstOrDefaultAsync(m => m.Id == id);
             if (movie == null)
             {
                 return NotFound();
@@ -44,21 +43,23 @@ namespace Movies.Controllers
             return View(movie);
         }
 
-        // GET: MovieController/Create
-        public ActionResult Create()
-        {
-            ViewData["DirectorId"] = new SelectList(_context.Producers, "Id", "Name");
-            ViewData["GenreId"] = new SelectList(_context.Genres, "Id", "Name");
-            return View();
-        }
+        public IActionResult Create() { return View(); }
 
         // POST: MovieController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,ProducerId,GenreId,YearOfIssue, Poster, ShortDescription")] Movie movie)
+        public async Task<IActionResult> Create(IFormFile uploadedFile, [Bind("Id,Title,Producer,Genre,YearOfIssue, Poster, ShortDescription")] Movie movie)
         {
-            if (ModelState.IsValid)
+            if(ModelState.IsValid && uploadedFile != null)
             {
+                // Сохранение загруженного файла
+                string uploadsFolder = Path.Combine(_environment.WebRootPath, "Posters");
+                string uniqueFileName = Guid.NewGuid().ToString() + "_" + uploadedFile.FileName;
+                string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                using (var fileStream = new FileStream(filePath, FileMode.Create)) await uploadedFile.CopyToAsync(fileStream);
+                movie.Poster = "/Posters/" + uniqueFileName; // Путь к сохранённому файлу
+
                 _context.Add(movie);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -83,9 +84,9 @@ namespace Movies.Controllers
         }
 
         // POST: MovieController/Edit/5
-        [HttpPost]
+        [HttpPost, ActionName("Edit")]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Edit(int? id, [Bind("Id,Title,ProducerId,GenreId,YearOfIssue, Poster, ShortDescription")] Movie movie)
+        public async Task<IActionResult> Edit(int? id, [Bind("Id,Title,Producer,Genre,YearOfIssue, Poster, ShortDescription")] Movie movie, IFormFile uploadedFile)
         {
             if (id != movie.Id)
             {
@@ -96,6 +97,16 @@ namespace Movies.Controllers
             {
                 try
                 {
+                    if (uploadedFile != null)
+                    {
+                        string uploadsFolder = Path.Combine(_environment.WebRootPath, "Posters");
+                        string uniqueFileName = Guid.NewGuid().ToString() + "_" + uploadedFile.FileName;
+                        string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                        using (var fileStream = new FileStream(filePath, FileMode.Create)) await uploadedFile.CopyToAsync(fileStream);
+                        movie.Poster = "/Posters/" + uniqueFileName; // Обновляем путь к изображению
+                    }
+                    TryUpdateModelAsync(movie); // Попробуем обновить модель с данными из запроса
                     _context.Update(movie);
                     await _context.SaveChangesAsync();
                 }
@@ -123,8 +134,7 @@ namespace Movies.Controllers
                 return NotFound();
             }
 
-            var movie = await _context.Movies
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var movie = await _context.Movies.FirstOrDefaultAsync(m => m.Id == id);
             if (movie == null)
             {
                 return NotFound();
@@ -138,7 +148,7 @@ namespace Movies.Controllers
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> DeleteConfirm(int id)
         {
-           var movie = await _context.Movies.FindAsync(id);
+            var movie = await _context.Movies.FindAsync(id);
             if (movie != null)
             {
                 _context.Movies.Remove(movie);
@@ -153,4 +163,6 @@ namespace Movies.Controllers
             return _context.Movies.Any(e => e.Id == id);
         }
     }
+
+
 }

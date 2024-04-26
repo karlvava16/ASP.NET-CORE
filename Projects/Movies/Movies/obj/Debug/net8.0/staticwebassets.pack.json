@@ -5,6 +5,66 @@
       "PackagePath": "staticwebassets\\Movies.bundle.scp.css"
     },
     {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\3b14c492-5a2b-43cc-9f92-1c1aab9d7b56_nfpyo6zh625611.jpg",
+      "PackagePath": "staticwebassets\\Posters\\3b14c492-5a2b-43cc-9f92-1c1aab9d7b56_nfpyo6zh625611.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\3c2bdff4-f477-43cb-8737-de46b0926aac_aerobika_-10.jpg",
+      "PackagePath": "staticwebassets\\Posters\\3c2bdff4-f477-43cb-8737-de46b0926aac_aerobika_-10.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\43af7e72-c8a0-4555-9b1a-10f0cfaca509_colorful.jpg",
+      "PackagePath": "staticwebassets\\Posters\\43af7e72-c8a0-4555-9b1a-10f0cfaca509_colorful.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\4d98c46f-3779-4f14-bd8f-873b813698c5_colorful.jpg",
+      "PackagePath": "staticwebassets\\Posters\\4d98c46f-3779-4f14-bd8f-873b813698c5_colorful.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\68b22b8c-c619-4285-9a78-0cf5bba4f334_140618093314-08-iconic-vietnam-war-restricted.jpg",
+      "PackagePath": "staticwebassets\\Posters\\68b22b8c-c619-4285-9a78-0cf5bba4f334_140618093314-08-iconic-vietnam-war-restricted.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\7dec8275-57a9-4600-bfdf-b43e5320efe2_aerobika_-10.jpg",
+      "PackagePath": "staticwebassets\\Posters\\7dec8275-57a9-4600-bfdf-b43e5320efe2_aerobika_-10.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\8893018a-f00f-4f6d-9b7c-96592dec49dc_aerobika_-10.jpg",
+      "PackagePath": "staticwebassets\\Posters\\8893018a-f00f-4f6d-9b7c-96592dec49dc_aerobika_-10.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\8d81f8a3-0e00-44cd-bda3-dbfe615482cc_2e1167422bfafecc223c71e5b4427020.webp",
+      "PackagePath": "staticwebassets\\Posters\\8d81f8a3-0e00-44cd-bda3-dbfe615482cc_2e1167422bfafecc223c71e5b4427020.webp"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\a6e1553d-38f2-4a36-b3be-bbaf136c8827_140618093314-08-iconic-vietnam-war-restricted.jpg",
+      "PackagePath": "staticwebassets\\Posters\\a6e1553d-38f2-4a36-b3be-bbaf136c8827_140618093314-08-iconic-vietnam-war-restricted.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\c45750e6-14ec-4eb0-ac17-87ada285d4d8_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp",
+      "PackagePath": "staticwebassets\\Posters\\c45750e6-14ec-4eb0-ac17-87ada285d4d8_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\dark_knight_poster.jpg",
+      "PackagePath": "staticwebassets\\Posters\\dark_knight_poster.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\dbc135db-04d1-4f2a-aa34-a1469d212c5c_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg",
+      "PackagePath": "staticwebassets\\Posters\\dbc135db-04d1-4f2a-aa34-a1469d212c5c_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\ed10cdc9-4d8f-4edd-9160-63579f75f553_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp",
+      "PackagePath": "staticwebassets\\Posters\\ed10cdc9-4d8f-4edd-9160-63579f75f553_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\fb021ed9-ae26-472e-b58a-739668e73eaf_5d92c641dbfc662cd9d741ea1096197c.jpg",
+      "PackagePath": "staticwebassets\\Posters\\fb021ed9-ae26-472e-b58a-739668e73eaf_5d92c641dbfc662cd9d741ea1096197c.jpg"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\pulp_fiction_poster.jpg",
+      "PackagePath": "staticwebassets\\Posters\\pulp_fiction_poster.jpg"
+    },
+    {
       "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

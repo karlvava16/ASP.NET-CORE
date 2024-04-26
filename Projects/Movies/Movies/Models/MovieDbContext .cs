@@ -23,36 +23,24 @@ namespace Movies.Models
 
         private void AddSampleData()
         {
-            // Add genres
-            Genres.Add(new Genre { Name = "Action" });
-            Genres.Add(new Genre { Name = "Drama" });
-            Genres.Add(new Genre { Name = "Comedy" });
-            SaveChanges();
-
-            // Add producers
-            Producers.Add(new Producer { Name = "Steven Spielberg" });
-            Producers.Add(new Producer { Name = "Christopher Nolan" });
-            Producers.Add(new Producer { Name = "Quentin Tarantino" });
-            SaveChanges();
-
             // Add movies
             Movies.Add(new Movie
             {
                 Title = "The Dark Knight",
-                Producer = Producers.First(p => p.Name == "Christopher Nolan"),
-                Genre = Genres.First(g => g.Name == "Action"),
-                YearOfIssue = 2008,
-                Poster = "dark_knight_poster.jpg",
+                Producer = "Christopher Nolan",
+                Genre = "Action",
+                YearOfIssue = new DateOnly(2008, 01, 23),
+                Poster = "/Posters/dark_knight_poster.jpg",
                 ShortDescription = "A superhero film directed by Christopher Nolan."
             });
 
             Movies.Add(new Movie
             {
                 Title = "Pulp Fiction",
-                Producer = Producers.First(p => p.Name == "Quentin Tarantino"),
-                Genre = Genres.First(g => g.Name == "Drama"),
-                YearOfIssue = 1994,
-                Poster = "pulp_fiction_poster.jpg",
+                Producer = "Quentin Tarantino",
+                Genre = "Drama",
+                YearOfIssue = new DateOnly(1994, 01, 23),
+                Poster = "/Posters/pulp_fiction_poster.jpg",
                 ShortDescription = "A crime film directed by Quentin Tarantino."
             });
 

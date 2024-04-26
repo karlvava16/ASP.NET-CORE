@@ -4,9 +4,9 @@
     {
         public int Id { get; set; }
         public string? Title { get; set; }
-        public Producer? Producer { get; set; }
-        public Genre? Genre { get; set; }
-        public int YearOfIssue { get; set; }
+        public string? Producer { get; set; }
+        public string? Genre { get; set; }
+        public DateOnly YearOfIssue { get; set; }
         public string? Poster { get; set; }
         public string? ShortDescription { get; set; }
     }
