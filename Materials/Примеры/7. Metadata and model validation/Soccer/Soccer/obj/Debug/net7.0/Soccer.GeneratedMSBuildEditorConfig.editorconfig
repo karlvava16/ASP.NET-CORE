@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Soccer
+build_property.RootNamespace = Soccer
+build_property.ProjectDir = D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Model. Navigation property\Soccer\Soccer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ITSTEP\ASP.NET\Примеры\ASP.NET Core\6. Model. Navigation property\Soccer\Soccer
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Players/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Players/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Players/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Players/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Players/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Teams/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Teams/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Teams/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Teams/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Teams/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITSTEP/ASP.NET/Примеры/ASP.NET Core/6. Model. Navigation property/Soccer/Soccer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ntovqvaqvi

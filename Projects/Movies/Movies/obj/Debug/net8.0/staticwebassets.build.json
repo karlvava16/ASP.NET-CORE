@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vrqIx1hYI4g5TV/oXUPHxvp0C9UghhjUsr+4zVi+ehc=",
+  "Hash": "FLfNHhCbxcak1/B7stChHKmUGhR/8iwkmCDEGCPF6B8=",
   "Source": "Movies",
   "BasePath": "_content/Movies",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\10b9c74e-cff9-4bba-b38f-d921ae79976b_aerobika_-10.jpg",
+      "SourceId": "Movies",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\",
+      "BasePath": "_content/Movies",
+      "RelativePath": "Posters/10b9c74e-cff9-4bba-b38f-d921ae79976b_aerobika_-10.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Posters\\10b9c74e-cff9-4bba-b38f-d921ae79976b_aerobika_-10.jpg"
     },
     {
       "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\3b14c492-5a2b-43cc-9f92-1c1aab9d7b56_nfpyo6zh625611.jpg",

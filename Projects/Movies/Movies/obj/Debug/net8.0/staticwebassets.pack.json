@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Movies.bundle.scp.css"
     },
     {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\10b9c74e-cff9-4bba-b38f-d921ae79976b_aerobika_-10.jpg",
+      "PackagePath": "staticwebassets\\Posters\\10b9c74e-cff9-4bba-b38f-d921ae79976b_aerobika_-10.jpg"
+    },
+    {
       "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\3b14c492-5a2b-43cc-9f92-1c1aab9d7b56_nfpyo6zh625611.jpg",
       "PackagePath": "staticwebassets\\Posters\\3b14c492-5a2b-43cc-9f92-1c1aab9d7b56_nfpyo6zh625611.jpg"
     },
