@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\Posters\\4d98c46f-3779-4f14-bd8f-873b813698c5_colorful.jpg"
     },
     {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg",
+      "PackagePath": "staticwebassets\\Posters\\577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg"
+    },
+    {
       "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\68b22b8c-c619-4285-9a78-0cf5bba4f334_140618093314-08-iconic-vietnam-war-restricted.jpg",
       "PackagePath": "staticwebassets\\Posters\\68b22b8c-c619-4285-9a78-0cf5bba4f334_140618093314-08-iconic-vietnam-war-restricted.jpg"
     },
@@ -39,6 +43,10 @@
     {
       "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\8d81f8a3-0e00-44cd-bda3-dbfe615482cc_2e1167422bfafecc223c71e5b4427020.webp",
       "PackagePath": "staticwebassets\\Posters\\8d81f8a3-0e00-44cd-bda3-dbfe615482cc_2e1167422bfafecc223c71e5b4427020.webp"
+    },
+    {
+      "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\996d49ec-8da2-455c-84b0-95c2bea38dc2_desktop-pc-5120x2880-wallpaper_00019 (1).png",
+      "PackagePath": "staticwebassets\\Posters\\996d49ec-8da2-455c-84b0-95c2bea38dc2_desktop-pc-5120x2880-wallpaper_00019 (1).png"
     },
     {
       "Id": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\a6e1553d-38f2-4a36-b3be-bbaf136c8827_140618093314-08-iconic-vietnam-war-restricted.jpg",

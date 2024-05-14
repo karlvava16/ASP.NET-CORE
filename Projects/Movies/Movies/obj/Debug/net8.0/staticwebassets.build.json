@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FLfNHhCbxcak1/B7stChHKmUGhR/8iwkmCDEGCPF6B8=",
+  "Hash": "0H/nDGbqkZgDLWNIXU6Vnm/Jnxe47ttUDcTbqos4mQQ=",
   "Source": "Movies",
   "BasePath": "_content/Movies",
   "Mode": "Default",
@@ -1290,6 +1290,25 @@
       "OriginalItemSpec": "wwwroot\\Posters\\4d98c46f-3779-4f14-bd8f-873b813698c5_colorful.jpg"
     },
     {
+      "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg",
+      "SourceId": "Movies",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\",
+      "BasePath": "_content/Movies",
+      "RelativePath": "Posters/577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Posters\\577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg"
+    },
+    {
       "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\68b22b8c-c619-4285-9a78-0cf5bba4f334_140618093314-08-iconic-vietnam-war-restricted.jpg",
       "SourceId": "Movies",
       "SourceType": "Discovered",
@@ -1364,6 +1383,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Posters\\8d81f8a3-0e00-44cd-bda3-dbfe615482cc_2e1167422bfafecc223c71e5b4427020.webp"
+    },
+    {
+      "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\996d49ec-8da2-455c-84b0-95c2bea38dc2_desktop-pc-5120x2880-wallpaper_00019 (1).png",
+      "SourceId": "Movies",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\",
+      "BasePath": "_content/Movies",
+      "RelativePath": "Posters/996d49ec-8da2-455c-84b0-95c2bea38dc2_desktop-pc-5120x2880-wallpaper_00019 (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Posters\\996d49ec-8da2-455c-84b0-95c2bea38dc2_desktop-pc-5120x2880-wallpaper_00019 (1).png"
     },
     {
       "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\Movies\\Movies\\wwwroot\\Posters\\a6e1553d-38f2-4a36-b3be-bbaf136c8827_140618093314-08-iconic-vietnam-war-restricted.jpg",

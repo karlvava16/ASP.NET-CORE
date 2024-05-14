@@ -1056,6 +1056,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\4d98c46f-3779-4f14-bd8f-873b813698c5_colorful.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>Movies</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Movies</BasePath>
+      <RelativePath>Posters/577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\68b22b8c-c619-4285-9a78-0cf5bba4f334_140618093314-08-iconic-vietnam-war-restricted.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>Movies</SourceId>
@@ -1119,6 +1135,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\8d81f8a3-0e00-44cd-bda3-dbfe615482cc_2e1167422bfafecc223c71e5b4427020.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\996d49ec-8da2-455c-84b0-95c2bea38dc2_desktop-pc-5120x2880-wallpaper_00019 (1).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Movies</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Movies</BasePath>
+      <RelativePath>Posters/996d49ec-8da2-455c-84b0-95c2bea38dc2_desktop-pc-5120x2880-wallpaper_00019 (1).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\996d49ec-8da2-455c-84b0-95c2bea38dc2_desktop-pc-5120x2880-wallpaper_00019 (1).png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\a6e1553d-38f2-4a36-b3be-bbaf136c8827_140618093314-08-iconic-vietnam-war-restricted.jpg))">
       <SourceType>Package</SourceType>
