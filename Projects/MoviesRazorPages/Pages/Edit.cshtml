@@ -11,10 +11,11 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form method="post">
+        <form method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Movie.Id" />
             <div class="form-group">
+                <label asp-for="Movie.Poster" class="control-label"></label>
                 <img class="image" src="@Model.Movie.Poster" />
                 <input id="addimg" type="file" name="uploadedFile" accept="Posters/*" />
             </div>

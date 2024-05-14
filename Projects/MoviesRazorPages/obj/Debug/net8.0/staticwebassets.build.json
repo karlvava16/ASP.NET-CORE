@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gVfG1Zt9HnH7lpRO9Foi01MUNjjtSPJm0CUpdBJVgE8=",
+  "Hash": "WK9DbYBl9wXzAvRg9C/24QkwMhpcgt2szWCzQZHKeZE=",
   "Source": "MoviesRazorPages",
   "BasePath": "_content/MoviesRazorPages",
   "Mode": "Default",
@@ -1347,6 +1347,25 @@
       "OriginalItemSpec": "wwwroot\\Posters\\7dec8275-57a9-4600-bfdf-b43e5320efe2_aerobika_-10.jpg"
     },
     {
+      "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\Posters\\7f67cb4a-5d06-43c5-a7da-4257458e1f2d_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg",
+      "SourceId": "MoviesRazorPages",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\",
+      "BasePath": "_content/MoviesRazorPages",
+      "RelativePath": "Posters/7f67cb4a-5d06-43c5-a7da-4257458e1f2d_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Posters\\7f67cb4a-5d06-43c5-a7da-4257458e1f2d_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg"
+    },
+    {
       "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\Posters\\8893018a-f00f-4f6d-9b7c-96592dec49dc_aerobika_-10.jpg",
       "SourceId": "MoviesRazorPages",
       "SourceType": "Discovered",
@@ -1440,6 +1459,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Posters\\c45750e6-14ec-4eb0-ac17-87ada285d4d8_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp"
+    },
+    {
+      "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\Posters\\d6e0a432-d5f5-42fe-8469-105d4cf5bcd1_140618093314-08-iconic-vietnam-war-restricted.jpg",
+      "SourceId": "MoviesRazorPages",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\",
+      "BasePath": "_content/MoviesRazorPages",
+      "RelativePath": "Posters/d6e0a432-d5f5-42fe-8469-105d4cf5bcd1_140618093314-08-iconic-vietnam-war-restricted.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Posters\\d6e0a432-d5f5-42fe-8469-105d4cf5bcd1_140618093314-08-iconic-vietnam-war-restricted.jpg"
     },
     {
       "Identity": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\Posters\\dark_knight_poster.jpg",

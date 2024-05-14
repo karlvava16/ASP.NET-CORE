@@ -22,13 +22,15 @@ namespace MoviesRazorPages.Pages
             _environment = environment;
         }
 
-        [BindProperty]
-        public Movie Movie { get; set; }
+
 
         public IActionResult OnGet()
         {
             return Page();
         }
+
+        [BindProperty]
+        public Movie Movie { get; set; }
 
         public async Task<IActionResult> OnPostAsync()
         {
@@ -55,11 +57,13 @@ namespace MoviesRazorPages.Pages
                 }
             }
 
-            _context.Movies.Add(Movie);
+            _context.Add(Movie).State = EntityState.Added;
+
             await _context.SaveChangesAsync();
+
 
             return RedirectToPage("./Index");
         }
-    }
 
+    }
 }

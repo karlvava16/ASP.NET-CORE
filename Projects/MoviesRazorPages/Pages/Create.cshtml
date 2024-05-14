@@ -11,7 +11,7 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form method="post">
+        <form method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <img class="image" id="previewImage" />
@@ -34,7 +34,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="Movie.YearOfIssue" class="control-label"></label>
-                <input asp-for="Movie.YearOfIssue" class="form-control" />
+                <input asp-for="Movie.YearOfIssue" class="form-control" type="date" />
                 <span asp-validation-for="Movie.YearOfIssue" class="text-danger"></span>
             </div>
             
