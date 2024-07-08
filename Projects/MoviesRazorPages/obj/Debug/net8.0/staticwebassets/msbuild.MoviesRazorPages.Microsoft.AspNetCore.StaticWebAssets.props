@@ -992,6 +992,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\10b9c74e-cff9-4bba-b38f-d921ae79976b_aerobika_-10.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\1d978e0e-b072-4057-869c-f03a716e26d9_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoviesRazorPages</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoviesRazorPages</BasePath>
+      <RelativePath>Posters/1d978e0e-b072-4057-869c-f03a716e26d9_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\1d978e0e-b072-4057-869c-f03a716e26d9_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\2dcca125-e709-47b1-a17c-2932d4ff6aca_invalidnaya-kolyaska-s-otkidnoy-spinkoy-osd-recliner-modern-foto-554-800x800.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoviesRazorPages</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoviesRazorPages</BasePath>
+      <RelativePath>Posters/2dcca125-e709-47b1-a17c-2932d4ff6aca_invalidnaya-kolyaska-s-otkidnoy-spinkoy-osd-recliner-modern-foto-554-800x800.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\2dcca125-e709-47b1-a17c-2932d4ff6aca_invalidnaya-kolyaska-s-otkidnoy-spinkoy-osd-recliner-modern-foto-554-800x800.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\3b14c492-5a2b-43cc-9f92-1c1aab9d7b56_nfpyo6zh625611.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>MoviesRazorPages</SourceId>
@@ -1024,6 +1056,38 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\3c2bdff4-f477-43cb-8737-de46b0926aac_aerobika_-10.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\3edb1923-40f1-4fb9-a53e-0427fda5a2a9_images.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoviesRazorPages</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoviesRazorPages</BasePath>
+      <RelativePath>Posters/3edb1923-40f1-4fb9-a53e-0427fda5a2a9_images.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\3edb1923-40f1-4fb9-a53e-0427fda5a2a9_images.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\3f05a152-a8cc-49a5-b3e8-34f283cdbd96_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoviesRazorPages</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoviesRazorPages</BasePath>
+      <RelativePath>Posters/3f05a152-a8cc-49a5-b3e8-34f283cdbd96_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\3f05a152-a8cc-49a5-b3e8-34f283cdbd96_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\43af7e72-c8a0-4555-9b1a-10f0cfaca509_colorful.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>MoviesRazorPages</SourceId>
@@ -1055,6 +1119,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\4d98c46f-3779-4f14-bd8f-873b813698c5_colorful.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\55d5ab7b-c0b0-4bb9-ba10-9d78deb350d8_pulp-fiction.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoviesRazorPages</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoviesRazorPages</BasePath>
+      <RelativePath>Posters/55d5ab7b-c0b0-4bb9-ba10-9d78deb350d8_pulp-fiction.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\55d5ab7b-c0b0-4bb9-ba10-9d78deb350d8_pulp-fiction.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\577bd2a4-4703-4a88-9c51-e010d9174cb9_empire-state-building-new-york-sunset-evening-skyscrapers.jpg))">
       <SourceType>Package</SourceType>
@@ -1120,6 +1200,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\7f67cb4a-5d06-43c5-a7da-4257458e1f2d_this-is-fine-meme-zoom-background-9or9ijzc65s76aua - Copy.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\8841dba6-46de-4e75-ba61-dfc9418ca4a0_desktop-pc-5120x2880-wallpaper_00019 (1).png))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoviesRazorPages</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoviesRazorPages</BasePath>
+      <RelativePath>Posters/8841dba6-46de-4e75-ba61-dfc9418ca4a0_desktop-pc-5120x2880-wallpaper_00019 (1).png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\8841dba6-46de-4e75-ba61-dfc9418ca4a0_desktop-pc-5120x2880-wallpaper_00019 (1).png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\8893018a-f00f-4f6d-9b7c-96592dec49dc_aerobika_-10.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>MoviesRazorPages</SourceId>
@@ -1183,6 +1279,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\a6e1553d-38f2-4a36-b3be-bbaf136c8827_140618093314-08-iconic-vietnam-war-restricted.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\b01c35fc-cb34-400f-8012-a9f2348663c0_Без названия.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>MoviesRazorPages</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MoviesRazorPages</BasePath>
+      <RelativePath>Posters/b01c35fc-cb34-400f-8012-a9f2348663c0_Без названия.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\b01c35fc-cb34-400f-8012-a9f2348663c0_Без названия.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Posters\c45750e6-14ec-4eb0-ac17-87ada285d4d8_2017-Chevrolet-Camaro-087-e1508353961251-1200x829.webp))">
       <SourceType>Package</SourceType>

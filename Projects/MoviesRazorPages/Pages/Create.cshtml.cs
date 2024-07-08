@@ -1,28 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.IO;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Hosting;
+using Microsoft.AspNetCore.Hosting;
 using MoviesRazorPages.Models;
+using MoviesRazorPages.Repositories;
 
 namespace MoviesRazorPages.Pages
 {
     public class CreateModel : PageModel
     {
-        private readonly MovieDbContext _context;
+        private readonly IMovieRepository _movieRepository;
         private readonly IWebHostEnvironment _environment;
 
-        public CreateModel(MovieDbContext context, IWebHostEnvironment environment)
+        public CreateModel(IMovieRepository movieRepository, IWebHostEnvironment environment)
         {
-            _context = context;
+            _movieRepository = movieRepository;
             _environment = environment;
         }
-
-
 
         public IActionResult OnGet()
         {
@@ -41,7 +37,7 @@ namespace MoviesRazorPages.Pages
 
             if (Request.Form.Files.Count > 0)
             {
-                var uploadedFile = Request.Form.Files[0]; // Get the uploaded file
+                var uploadedFile = Request.Form.Files[0];
                 if (uploadedFile.Length > 0)
                 {
                     string uploadsFolder = Path.Combine(_environment.WebRootPath, "Posters");
@@ -57,13 +53,9 @@ namespace MoviesRazorPages.Pages
                 }
             }
 
-            _context.Add(Movie).State = EntityState.Added;
-
-            await _context.SaveChangesAsync();
-
+            _movieRepository.AddMovie(Movie);
 
             return RedirectToPage("./Index");
         }
-
     }
 }

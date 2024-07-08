@@ -6,14 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using MoviesRazorPages.Models;
+using MoviesRazorPages.Repositories;
 
 namespace MoviesRazorPages.Pages
 {
     public class IndexModel : PageModel
     {
-        private readonly MoviesRazorPages.Models.MovieDbContext _context;
+        private readonly IMovieRepository _context;
 
-        public IndexModel(MoviesRazorPages.Models.MovieDbContext context)
+        public IndexModel(IMovieRepository context)
         {
             _context = context;
         }
@@ -22,7 +23,7 @@ namespace MoviesRazorPages.Pages
 
         public async Task OnGetAsync()
         {
-            Movie = await _context.Movies.ToListAsync();
+            Movie = await _context.GetAllMovies().ToListAsync();
         }
     }
 }

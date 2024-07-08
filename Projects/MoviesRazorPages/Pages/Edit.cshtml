@@ -16,8 +16,12 @@
             <input type="hidden" asp-for="Movie.Id" />
             <div class="form-group">
                 <label asp-for="Movie.Poster" class="control-label"></label>
-                <img class="image" src="@Model.Movie.Poster" />
-                <input id="addimg" type="file" name="uploadedFile" accept="Posters/*" />
+                @if (!string.IsNullOrEmpty(Model.Movie.Poster))
+                {
+                    <img class="image" src="@Model.Movie.Poster" alt="Movie Poster" />
+                }
+                <input id="addimg" type="file" name="uploadedFile" accept="image/*" />
+                <span asp-validation-for="Movie.Poster" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Movie.Title" class="control-label"></label>
@@ -56,5 +60,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

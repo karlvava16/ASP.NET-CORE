@@ -1,21 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
 using MoviesRazorPages.Models;
+using MoviesRazorPages.Repositories;
 
 namespace MoviesRazorPages.Pages
 {
     public class DetailsModel : PageModel
     {
-        private readonly MoviesRazorPages.Models.MovieDbContext _context;
+        private readonly IMovieRepository _movieRepository;
 
-        public DetailsModel(MoviesRazorPages.Models.MovieDbContext context)
+        public DetailsModel(IMovieRepository movieRepository)
         {
-            _context = context;
+            _movieRepository = movieRepository;
         }
 
         public Movie Movie { get; set; } = default!;
@@ -27,7 +24,7 @@ namespace MoviesRazorPages.Pages
                 return NotFound();
             }
 
-            var movie = await _context.Movies.FirstOrDefaultAsync(m => m.Id == id);
+            var movie = _movieRepository.GetMovieById(id.Value);
             if (movie == null)
             {
                 return NotFound();

@@ -1,23 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Hosting;
 using MoviesRazorPages.Models;
+using MoviesRazorPages.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace MoviesRazorPages.Pages
 {
     public class EditModel : PageModel
     {
-        private readonly MovieDbContext _context;
+        private readonly IMovieRepository _movieRepository;
         private readonly IWebHostEnvironment _environment;
 
-        public EditModel(MovieDbContext context, IWebHostEnvironment environment)
+        public EditModel(IMovieRepository movieRepository, IWebHostEnvironment environment)
         {
-            _context = context;
+            _movieRepository = movieRepository;
             _environment = environment;
         }
 
@@ -31,7 +32,7 @@ namespace MoviesRazorPages.Pages
                 return NotFound();
             }
 
-            Movie = await _context.Movies.FindAsync(id);
+            Movie = _movieRepository.GetMovieById(id.Value);
 
             if (Movie == null)
             {
@@ -49,7 +50,7 @@ namespace MoviesRazorPages.Pages
 
             if (Request.Form.Files.Count > 0)
             {
-                var uploadedFile = Request.Form.Files[0]; // Get the uploaded file
+                var uploadedFile = Request.Form.Files[0];
                 if (uploadedFile.Length > 0)
                 {
                     string uploadsFolder = Path.Combine(_environment.WebRootPath, "Posters");
@@ -65,15 +66,13 @@ namespace MoviesRazorPages.Pages
                 }
             }
 
-            _context.Attach(Movie).State = EntityState.Modified;
-
             try
             {
-                await _context.SaveChangesAsync();
+                _movieRepository.UpdateMovie(Movie);
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!MovieExists(Movie.Id))
+                if (_movieRepository.GetMovieById(Movie.Id) != null)
                 {
                     return NotFound();
                 }
@@ -86,10 +85,6 @@ namespace MoviesRazorPages.Pages
             return RedirectToPage("./Index");
         }
 
-        private bool MovieExists(int id)
-        {
-            return _context.Movies.Any(e => e.Id == id);
-        }
-    }
 
+    }
 }

@@ -16,6 +16,7 @@
             <div class="form-group">
                 <img class="image" id="previewImage" />
                 <input asp-for="Movie.Poster" class="leftbtn" id="addimg" type="file" name="uploadedFile" value="Add" accept="Posters/*" />
+                <span asp-validation-for="Movie.Poster" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Movie.Title" class="control-label"></label>
@@ -37,7 +38,6 @@
                 <input asp-for="Movie.YearOfIssue" class="form-control" type="date" />
                 <span asp-validation-for="Movie.YearOfIssue" class="text-danger"></span>
             </div>
-            
             <div class="form-group">
                 <label asp-for="Movie.ShortDescription" class="control-label"></label>
                 <input asp-for="Movie.ShortDescription" class="form-control" />
@@ -55,5 +55,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
