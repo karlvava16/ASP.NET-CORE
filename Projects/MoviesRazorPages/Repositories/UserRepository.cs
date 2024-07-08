@@ -21,9 +21,9 @@ namespace MoviesRazorPages.Repositories
 {
     public class UserRepository : IRepository<User>
     {
-        private readonly LoginDbContext _context;
+        private readonly MovieDbContext _context;
 
-        public UserRepository(LoginDbContext context)
+        public UserRepository(MovieDbContext context)
         {
             _context = context;
         }

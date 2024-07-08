@@ -1,12 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using MoviesRazorPages.Models;
-using MoviesRazorPages.Models;
 using MoviesRazorPages.Repositories;
 using System.Security.Cryptography;
 using System.Text;
-using MoviesRazorPages.Repositories;
-using MoviesRazorPages.Models;
 
 namespace MoviesRazorPages.Pages.Account
 {

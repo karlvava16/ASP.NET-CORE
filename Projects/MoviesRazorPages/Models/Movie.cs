@@ -21,8 +21,8 @@ namespace MoviesRazorPages.Models
         [Required(ErrorMessage = "Year of issue is required")]
         public DateOnly YearOfIssue { get; set; }
 
-        [Required(ErrorMessage = "Year of issue is required")]
-        public string Poster { get; set; }
+       // [Required(ErrorMessage = "Poster of issue is required")]
+        public string? Poster { get; set; }
 
         [StringLength(500, ErrorMessage = "Short description length can't be more than 500.")]
         public string ShortDescription { get; set; }

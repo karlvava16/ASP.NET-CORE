@@ -16,6 +16,7 @@ namespace MoviesRazorPages.Models
         public MovieDbContext(DbContextOptions<MovieDbContext> options)
             : base(options)
         {
+            //Database.EnsureDeleted();
             // Ensure the database is created
             if (Database.EnsureCreated())
             {

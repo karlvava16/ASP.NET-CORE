@@ -66,13 +66,20 @@ namespace MoviesRazorPages.Pages
                 }
             }
 
+            // Check if the poster is still empty
+            if (string.IsNullOrEmpty(Movie.Poster))
+            {
+                ModelState.AddModelError("Movie.Poster", "Poster is required.");
+                return Page();
+            }
+
             try
             {
                 _movieRepository.UpdateMovie(Movie);
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (_movieRepository.GetMovieById(Movie.Id) != null)
+                if (_movieRepository.GetMovieById(Movie.Id) == null)
                 {
                     return NotFound();
                 }
@@ -84,7 +91,5 @@ namespace MoviesRazorPages.Pages
 
             return RedirectToPage("./Index");
         }
-
-
     }
 }

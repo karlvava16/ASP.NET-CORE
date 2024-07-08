@@ -61,6 +61,7 @@ namespace MoviesRazorPages.Repositories
         public void UpdateMovie(Movie movie)
         {
             _context.Entry(movie).State = EntityState.Modified;
+            Console.WriteLine(_context.Entry(movie).State);
             _context.SaveChanges();
         }
 

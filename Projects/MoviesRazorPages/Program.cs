@@ -1,6 +1,7 @@
 using MoviesRazorPages.Models;
 using MoviesRazorPages.Repositories;
 using Microsoft.EntityFrameworkCore;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,7 +15,8 @@ builder.Services.AddScoped<IProducerRepository, ProducerRepository>();
 builder.Services.AddScoped<IRepository<User>, UserRepository>();
 
 // Add DbContext services
-builder.Services.AddDbContext<MovieDbContext>(options => options.UseSqlServer(connection));
+builder.Services.AddDbContext<MovieDbContext>(options => options.UseSqlServer(connection).EnableSensitiveDataLogging()
+           .EnableDetailedErrors());
 
 // Add services to the container.
 builder.Services.AddRazorPages();

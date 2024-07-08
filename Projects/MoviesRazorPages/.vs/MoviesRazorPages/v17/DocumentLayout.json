@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|c:\\step\\asp.net-core\\projects\\moviesrazorpages\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\repositories\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:repositories\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\models\\moviedbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:models\\moviedbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\models\\registrmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:models\\registrmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|c:\\step\\asp.net-core\\projects\\moviesrazorpages\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|c:\\step\\asp.net-core\\projects\\moviesrazorpages\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|c:\\step\\asp.net-core\\projects\\moviesrazorpages\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\account\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\account\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|c:\\step\\asp.net-core\\projects\\moviesrazorpages\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|c:\\step\\asp.net-core\\projects\\moviesrazorpages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BEE90242-1B95-4CF4-BEDA-A58B2226397B}|MoviesRazorPages.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-08T07:37:30.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Repositories\\Repositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Repositories\\Repositories.cs",
+              "RelativeToolTip": "Repositories\\Repositories.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA3wD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:04:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:18:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Edit.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:03:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:03:22.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Details.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:03:22.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:44:57.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T08:44:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Create.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:03:22.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Create.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:03:22.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:17:37.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvz8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:43:47.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieDbContext .cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\MovieDbContext .cs",
+              "RelativeDocumentMoniker": "Models\\MovieDbContext .cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\MovieDbContext .cs",
+              "RelativeToolTip": "Models\\MovieDbContext .cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:18:48.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:19:11.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrModel.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\RegistrModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrModel.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\RegistrModel.cs",
+              "RelativeToolTip": "Models\\RegistrModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:19:15.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:45:44.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "Models\\Producer.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\Producer.cs",
+              "RelativeToolTip": "Models\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:19:10.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:19:19.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:19:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Details.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:03:22.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:03:22.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:58:20.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Registration.cshtml.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Registration.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Registration.cshtml.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Registration.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Registration.cshtml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:41:54.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T06:42:01.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T06:45:45.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:46:07.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-08T06:46:21.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:03:23.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:03:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T08:22:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Registration.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Account\\Registration.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Registration.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T08:26:36.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:03:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Step\\ASP.NET-CORE\\Projects\\MoviesRazorPages\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T09:34:18.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

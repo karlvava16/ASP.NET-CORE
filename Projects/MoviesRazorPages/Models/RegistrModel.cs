@@ -4,17 +4,17 @@ namespace MoviesRazorPages.Models
 {
     public class RegistrModel
     {
-        [Required(ErrorMessage = "Поле должно быть установлено")]
+        [Required(ErrorMessage = "Field is required")]
         public string? Name { get; set; }
-        [Required(ErrorMessage = "Поле должно быть установлено")]
+        [Required(ErrorMessage = "Field is required")]
         public string? Login { get; set; }
 
         [DataType(DataType.Password)]
-        [Required(ErrorMessage = "Поле должно быть установлено")]
+        [Required(ErrorMessage = "Field is required")]
         public string? Password { get; set; }
 
-        [Required(ErrorMessage = "Поле должно быть установлено")]
-        [Compare("Password", ErrorMessage = "Пароли не совпадают")]
+        [Required(ErrorMessage = "Field is required")]
+        [Compare("Password", ErrorMessage = "Password does not match")]
         [DataType(DataType.Password)]
         [Display(Name = "Confirm password")]
         public string? PasswordConfirm { get; set; }

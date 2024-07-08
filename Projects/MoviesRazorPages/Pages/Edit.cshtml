@@ -18,7 +18,7 @@
                 <label asp-for="Movie.Poster" class="control-label"></label>
                 @if (!string.IsNullOrEmpty(Model.Movie.Poster))
                 {
-                    <img class="image" src="@Model.Movie.Poster" alt="Movie Poster" />
+                    <img class="image" src="@Model.Movie.Poster" alt="Movie Poster" style="width:200px;height:auto;" />
                 }
                 <input id="addimg" type="file" name="uploadedFile" accept="image/*" />
                 <span asp-validation-for="Movie.Poster" class="text-danger"></span>
